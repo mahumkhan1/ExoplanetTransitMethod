@@ -1,1 +1,2 @@
 "# ExoplanetTransitMethod" 
+"# github_guide" 
